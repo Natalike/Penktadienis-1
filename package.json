@@ -4,6 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "try": "nodemon ./js/try.js",
+    "task5": "nodemon ./js/task5.js",
     "task4": "nodemon ./js/task4.js",
     "task3": "nodemon ./js/task3.js",
     "myname": "nodemon ./js/myname.js",
