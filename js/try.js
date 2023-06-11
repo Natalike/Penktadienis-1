@@ -88,3 +88,42 @@ console.log(intro1);
 console.log(intro2);
 console.log(intro3);
 console.log(intro4);
+
+
+console.clear();
+
+const a = 10;
+const b = 2;
+
+if (a>b) {
+    console.log(`Maziau (a > b)`);
+} else {
+    console.log('Ne daugiau...');
+}
+
+const c = 5;
+const d = 10;
+
+if (a>b) {
+    console.log('Maziau');
+} else {
+    console.log('Daugiau');
+}
+
+const e = 27;
+const f = 20;
+
+if (e<f) {
+    console.log('Didesnis');
+} else {
+    console.log('Mazesnis');
+}
+
+const g = 10;
+const h = 9;
+
+if (g>h) {
+    console.log('Maziau');
+} else {
+    console.log('Daugiau');
+}
