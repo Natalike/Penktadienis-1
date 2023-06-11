@@ -4,6 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "reverse": "nodemon ./js/reverse.js",
+    "for": "nodemon ./js/for.js",
     "if": "nodemon ./js/if.js",
     "try": "nodemon ./js/try.js",
     "task5": "nodemon ./js/task5.js",
